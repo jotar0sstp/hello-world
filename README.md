@@ -1,2 +1,6 @@
-premiere modification 
-modification nd
+# premiere modification 
+## modification nd
+``` 
+apt update 
+apt upgrade 
+```
